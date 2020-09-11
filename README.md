@@ -1,1 +1,7 @@
-# Immunogenetic-GxE-meta-analysis
+# Immune GxE meta-analysis
+
+Study Overview
+
+Depression is a highly prevalent disorder influenced by both genetic and environmental risk factors. Relationships between inflammation, childhood-maltreatment and depression are well-established and are typically assessed via inflammatory profiles derived from peripheral C-reactive protein (_CRP_) and pro-inflammatory cytokine measures. However, the transient properties of peripheral biomarkers suggest that conclusions derived from these methods are somewhat limited. To date few studies have examined this association within a gene-environment interactive framework. Gene-environment approaches have the potential to elucidate the mechanisms driving the onset and progression of depression whilst avoiding the methodological issues commonly encountered when using blood measures.
+
+The present study aims to increase understanding of the moderating effect of childhood maltreatment exposure on immune gene variation in depression. This will be achieved through a replication analysis of the findings reported by Cohen-Woods et al. (2018) whereby two significant genetic variants, located in genes _CRP_ and interleukin-6 (_IL-6_), were shown to interact with childhood maltreatment exposure to predict depression outcome. We aim to extend the original meta-analytical protocol (developed by Culverhouse et al., 2013) and invite participation from all available cohorts that have genotyped data for _CRP_ and _IL-6_. Please read the [primary study](https://www.sciencedirect.com/science/article/abs/pii/S0889159117304130) and the [current study protocol]() for more information regarding the study objectives and methodology.
